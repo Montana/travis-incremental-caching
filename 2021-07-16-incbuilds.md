@@ -145,7 +145,8 @@ if [ "$BRANCH" == "dev" ]; then
     fi
   done 
 ```
-<img width="976" alt="gentoo" src="https://user-images.githubusercontent.com/20936398/125999356-ae994db5-6f6b-499b-adfc-e81872fcecab.png">
+
+<img width="978" alt="gentoo2" src="https://user-images.githubusercontent.com/20936398/126000046-729be4a2-e10d-4392-b70c-c57b95169bda.png">
 
 We can of course name that bash file anything we want, e.g. `timesaver.sh`, of course make it executable via: `chmod u+x timesaver.sh` (or whatever you decide to call your bash script.)
 
